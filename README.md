@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack & Mobile App Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrsam2&label=Profile%20views&color=0e75b6&style=flat" alt="Mrsam2" />
+  <img src="[https://komarev.com/ghpvc/?username=Mrsam2&label=Profile%20views&color=0e75b6&style=flat](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/06/Linkedin-cover-2-1.jpg?resize=368)" alt="Mrsam2" />
 </p>
 
 ---
