@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack & Mobile App Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://ibb.co/NdVPFtLg" alt="Mrsam2" />
+  <img src="./header_Github.png" alt="Mrsam2" />
 </p>
 
 ---
