@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./header_Github.png" alt="Mrsam2" />
+  <!-- <img src="./header_Github.png" alt="Mrsam2" /> -->
 </p>
 <h1 align="center">Hi 👋, I'm Saurabh Wankhede</h1>
 <h3 align="center">A passionate Full-Stack & Mobile App Developer from India 🚀</h3>
